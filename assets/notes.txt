@@ -1,0 +1,1 @@
+look at this as possibly a better map lib: https://github.com/lelandrichardson/react-native-maps
